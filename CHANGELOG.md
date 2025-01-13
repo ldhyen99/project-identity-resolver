@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/ldhyen99/project-identity-resolver/compare/1.0.2...v1.0.3) (2025-01-13)
+
+
+### Miscellaneous
+
+* Release 1.0.3 ([8a1b277](https://github.com/ldhyen99/project-identity-resolver/commit/8a1b2772fe1c954d1493ff0ffc4d17a1f64da761))
+
 ## [1.0.2](https://github.com/ldhyen99/project-identity-resolver/compare/v1.0.1...v1.0.2) (2025-01-13)
 
 
