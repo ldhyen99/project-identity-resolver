@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.4](https://github.com/ldhyen99/project-identity-resolver/compare/1.0.3...v1.0.4) (2025-01-15)
+
+
+### Bug Fixes
+
+* Package workflow ([2266881](https://github.com/ldhyen99/project-identity-resolver/commit/226688183e0b0199ef73eb59a22815a97af3b9ea))
+
+
+### Miscellaneous
+
+* **hotfix/trigger_tag_package_1:** Release 1.0.3 ([eb1d6be](https://github.com/ldhyen99/project-identity-resolver/commit/eb1d6bed51c7683d31dc5b487bbf7dce4a59555a))
+* Release 1.0.3 ([8a1b277](https://github.com/ldhyen99/project-identity-resolver/commit/8a1b2772fe1c954d1493ff0ffc4d17a1f64da761))
+* Release 1.0.4 ([9ff294b](https://github.com/ldhyen99/project-identity-resolver/commit/9ff294bc3169f289095d400ca19f33d68190da77))
+
 ## [1.0.3](https://github.com/ldhyen99/project-identity-resolver/compare/1.0.2...v1.0.3) (2025-01-13)
 
 
