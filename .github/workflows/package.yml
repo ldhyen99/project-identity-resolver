@@ -1,9 +1,13 @@
 name: package
 
 on:
+    workflow_run:
+        workflows: ["Release"]
+        types:
+            - completed
     push:
         tags:
-            - '[0-9]+.[0-9]+.[0-9]+'
+             - '[0-9]+.[0-9]+.[0-9]+'
     workflow_dispatch:
 
 jobs:
